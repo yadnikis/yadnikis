@@ -6,7 +6,7 @@
 
 <hr>
 
-|  <a href=""><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yadnikis&amp;%22%20alt=%22yadnikis&amp;theme=dracula&amp;" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yadnikis&layout=compact&theme=dracula&hide_border=true" /></a> |
+|  <a href="">![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yadnikis&theme=Javascript-dark&date_format=M%20j%5B%2C%20Y%5D&hide_border=true)</a> | <a href=""><img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yadnikis&layout=compact&theme=highcontrast&hide_border=true\" /></a> |
 | ------------- | ------------- |
 <!---
 yadnikis/yadnikis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
