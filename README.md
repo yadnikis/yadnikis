@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @yadnikis
+- 🎯 Portfolio website: [Portfolio](https://yadniki.github.io/)
 - 👀 I’m interested in app and web development
 - 🌱 I’m currently learning data analysis and visualization 
 - 💞️ I’m looking to collaborate on data science-based projects
