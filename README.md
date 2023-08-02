@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yadnikis
+- 👋 Hi, I’m Yadniki Sonawani
 - 🎯 Portfolio website: [Portfolio](https://yadnikis.github.io/yadniki.github.io/)
 - 👀 I’m interested in app and web development
 - 🌱 I’m currently learning data analysis and visualization 
