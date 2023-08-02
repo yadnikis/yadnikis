@@ -3,7 +3,7 @@
 - 👀 I’m interested in app and web development
 - 🌱 I’m currently learning data analysis and visualization 
 - 💞️ I’m looking to collaborate on data science-based projects
-- 📫 How to reach me: <a href="mailto:yadniki.sonawani@gmail.com">![Email Me!!](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/yadniki-sonawani-27472a21b/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+- 📫 How to reach me: <a href="mailto:yadniki.sonawani@gmail.com">![Email Me!!](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/yadniki-sonawani-27472a21b/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)</a>
 
 ## Tech Stack
 <p>
