@@ -4,6 +4,8 @@
 - 🌱 I’m currently learning data analysis and visualization 
 - 💞️ I’m looking to collaborate on data science-based projects
 - 📫 How to reach me @yadniki.sonawani@gmail.com
+### Top Languages
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kritika-pattalam&layout=compact)
 
 <hr>
 
