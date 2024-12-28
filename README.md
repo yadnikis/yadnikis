@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Yadniki Sonawani
-- 🎯 Portfolio website: [Portfolio](https://yadnikis.github.io/yadniki.github.io/)
+- 🎯 Portfolio website: [Portfolio](https://nikixx2002.wixsite.com/website)
 - 👀 I’m interested in app and web development
 - 🌱 I’m currently learning data analysis and visualization 
 - 💞️ I’m looking to collaborate on data science-based projects
